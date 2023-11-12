@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VarnishDas
-- 👀 I’m interested in Gaming, Formula 1, etc
+- 👀 I’m into in Formula 1
 - 🌱 I’m currently learning: Python, Java and Web Development
-- 💞️ I’m looking to collaborate on: Discord Bot development
 - 📫 You can reach me via varnish.das@outlook.com
 
 <!---
