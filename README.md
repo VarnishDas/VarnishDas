@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VarnishDas
-- 👀 I’m into in Formula 1
+- 👀 I’m into Formula 1 and Finance
 - 🌱 I’m currently learning: Python, Java and Web Development
 - 📫 You can reach me via varnish.das@outlook.com
 
